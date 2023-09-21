@@ -48,7 +48,7 @@ You will need to complete all of the setup instructions [here](./readme.md#confi
       ✔ Base url of the GitHub instance: https://github.com
       ✔ Personal access token for Jenkins: *************** 
       ✔ Username of Jenkins user: admin
-      ✔ Base url of the Jenkins instance: https://localhost
+      ✔ Base url of the Jenkins instance: http://localhost:8080
       Environment variables successfully updated.
       ```
 
