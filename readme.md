@@ -1,5 +1,5 @@
 # Overview
-<h1 align="center">Importing CI/CD workflows into Actions using GitHub Actions Importer</h1>
+<h1 align="center">Migrate your CI/CD Pipelines  using GitHub Actions Importer</h1>
 <h5 align="center">@facilitators</h3>
 
 <p align="center">
