@@ -28,6 +28,7 @@ Before joining the workshop, there are a few items that you will need to install
 
 ## :books: Resources
 - [GitHub Actions Importer Repository and Documenation](https://github.com/github/gh-actions-importer)
+- [Actions importer-labs repository](https://github.com/actions/importer-labs)
 
 # GitHub Actions Importer labs
 
