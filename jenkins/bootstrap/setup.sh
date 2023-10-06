@@ -6,6 +6,10 @@ password="password"
 
 echo "Building Jenkins instance!"
 
+if [ -z "$CODESPACE_VSCODE_FOLDER" ]; then
+  CODESPACE_VSCODE_FOLDER=$( cd -P "$(dirname $0)/../../" && pwd)
+fi
+
 if [ "$(docker ps -a | grep jenkins:$container_name)" ]; then
   echo -e "Jenkins is running"
   docker container start jenkins
